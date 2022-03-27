@@ -1,13 +1,18 @@
 # Regex Tutorial Challenge: Matching an Email
 
 ## github repo:
+https://github.com/htariku/bug-free-goggles
 
 
 ## url link: 
+ https://htariku.github.io/bug-free-goggles/
+
+ ## github gist:
+ https://gist.github.com/fc07fcfe85115b687f3368b67492ccb6.git
+
+ https://gist.github.com/htariku/fc07fcfe85115b687f3368b67492ccb6
 
 
-
- 
    # Description
 User Story: 
 
